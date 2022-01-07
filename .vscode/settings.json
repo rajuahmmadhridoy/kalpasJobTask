@@ -1,0 +1,18 @@
+/*
+ * Title: VS Code workspace settings
+ * Description: Workspace settings shown in Raju Ahmmad Hridoy React Tutorial Series which assumes you have 1) VS Code Dracula Theme Installed, VS Code ESLint and Prettier Plugins installed 
+ * Author: Raju Ahmmad ( Raju Ahmmad Hridoy )
+ * Date: 12/04/2021
+ *
+ */
+
+{
+    // config related to code formatting
+    "editor.fontSize": 16,
+    // "editor.fontFamily": "OperatorMonoLig-Book",
+    "editor.hover.enabled": true,
+    // "terminal.integrated.fontFamily": "OperatorMonoLig-Book, Hack Nerd Font, Meslo LG L DZ for Powerline",
+    "terminal.integrated.fontSize": 15,
+    // "terminal.integrated.letterSpacing": -5,
+    "window.zoomLevel": 2
+}
